@@ -20,7 +20,7 @@
 
 - 📫 How to reach me at: **maaizmuhammad044@gmail.com**
 
-- ⚡ Fun fact **I love cracking jokes and believe that laughter is the best medicine. Ready for a good laugh anytime! 🎭**
+- ⚡ Fun fact: **I love cracking jokes and believe that laughter is the best medicine. Ready for a good laugh anytime! 🎭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
