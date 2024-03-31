@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-maaiz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-maaiz" /> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Tkinter**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Muhammad-Maaiz](https://github.com/Muhammad-Maaiz)
 
