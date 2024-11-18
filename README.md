@@ -1,4 +1,5 @@
-![logo](https://github.com/Muhammad-Maaiz/Muhammad-Maaiz/assets/157501398/9aa03f93-d439-4c9c-a560-bf13a2ff388b)
+![logo](https://github.com/user-attachments/assets/fbfa663d-3517-4531-832b-b31a2f333aca)
+
 <h1 align="center">Hi 👋, I'm Muhammad Maaiz</h1>
 <h3 align="center">A Passionate Python Developer From Pakistan</h3>
 
