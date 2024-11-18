@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/fbfa663d-3517-4531-832b-b31a2f333aca)
 
-<h1 align="center">Hi 👋, I'm Muhammad Maaiz</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Maiz</h1>
 <h3 align="center">A Passionate Python Developer From Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
